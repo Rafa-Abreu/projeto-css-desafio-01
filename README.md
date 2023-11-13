@@ -3,7 +3,7 @@
 Desafio da Trilha de CSS da DIO! Construção de uma Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS e
 as propriedades básicas da linguagem de estilização.
 
-[Clique aqui]([https://rafa-abreu.github.io/projeto-css-desafio-01/]) para acessar o resultado final da Landing Page criada a partir do desafio!
+[Clique aqui](https://rafa-abreu.github.io/projeto-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
 
 [Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio
 
